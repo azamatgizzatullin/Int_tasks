@@ -32,7 +32,7 @@ header a {
   color: white;
 }
 header h1 {
-  color: #aaa;
+  color: white;
   font-size: 40px;
   font-weight: lighter;
   margin-bottom: 5px;
